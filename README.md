@@ -55,8 +55,8 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 
 #### 🌤 Hosts
 <span><img src="https://img.shields.io/badge/_-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/_-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Tencent_Cloud-2571F6?style=for-the-badge" /></span>
@@ -67,6 +67,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <span><img src="https://img.shields.io/badge/_-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Apple_Store_Connect-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Scrum-violet?style=for-the-badge" /></span>
