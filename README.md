@@ -56,6 +56,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 #### 🌤 Hosts
 <span><img src="https://img.shields.io/badge/_-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" /></span>
