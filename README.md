@@ -10,7 +10,6 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 #### 📪 Contact with me
 <a target="_blank" href="mailto:roger.twan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=%20&style=for-the-badge&color=EA4335&labelColor=5c5c5c&logoColor=white" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/roger-twan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedIn&label=%20&style=for-the-badge&color=0A66C2&labelColor=5c5c5c" /></a>
-<a target="_blank" href="https://discordapp.com/users/1072458186692509726"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=%20&style=for-the-badge&color=5865F2&labelColor=5c5c5c&logoColor=white" /></a>
 
 #### 👨‍💻 Languages
 <span><img src="https://img.shields.io/badge/_-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></span>
