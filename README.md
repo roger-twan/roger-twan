@@ -43,6 +43,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <br />
 <span><img src="https://img.shields.io/badge/_-ESlint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-JEST-C21325?style=for-the-badge&logo=jest&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></span>
 <br />
