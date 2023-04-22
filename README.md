@@ -21,6 +21,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 
 #### 💽 Databases
 <span><img src="https://img.shields.io/badge/_-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
 
 #### 📚 Tech stacks
