@@ -38,6 +38,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <span><img src="https://img.shields.io/badge/_-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Less-1D365D?style=for-the-badge&logo=less&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Element-569EF8?style=for-the-badge" /></span>
