@@ -55,7 +55,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <br />
 <span><img src="https://img.shields.io/badge/_-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></span>
 
-#### 🌤 Hosts
+#### 🌥 Hostings
 <span><img src="https://img.shields.io/badge/_-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></span>
