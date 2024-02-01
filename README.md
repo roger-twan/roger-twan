@@ -18,11 +18,16 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <span><img src="https://img.shields.io/badge/_-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-PHP-#777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
 
 #### 💽 Databases
 <span><img src="https://img.shields.io/badge/_-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
+
+#### 🎛 CMS
+<span><img src="https://img.shields.io/badge/_-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /></span>
 
 #### 📚 Tech stacks
 <span><img src="https://img.shields.io/badge/_-Node-339933?style=for-the-badge&logo=node.js&logoColor=white" /></span>
