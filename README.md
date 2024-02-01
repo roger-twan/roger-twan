@@ -28,6 +28,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <span><img src="https://img.shields.io/badge/_-Node-339933?style=for-the-badge&logo=node.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Express-000000?style=for-the-badge&logo=express&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Koa-33333D?style=for-the-badge&logo=koa&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Next-000000?style=for-the-badge&logo=next.js&logoColor=white" /></span>
@@ -40,6 +41,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <span><img src="https://img.shields.io/badge/_-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Element-569EF8?style=for-the-badge" /></span>
 <br />
 <span><img src="https://img.shields.io/badge/_-ESlint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /></span>
