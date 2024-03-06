@@ -18,7 +18,7 @@ I am Software Engineer and Tech Geek, I have always been passionate about learni
 <span><img src="https://img.shields.io/badge/_-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/_-PHP-#777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
 
 #### 💽 Databases
 <span><img src="https://img.shields.io/badge/_-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></span>
