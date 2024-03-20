@@ -1,12 +1,10 @@
 ### 👋 Hi, I'm Roger
-I am Software Engineer and Tech Geek, I have always been passionate about learning new technologies.
+I am a Software Engineer and Tech Geek, and I have always been passionate about learning new technologies.
 
 ---
 
 #### 📡 My websites
-<a target="_blank" href="https://roger.twan.life"><img src="https://img.shields.io/badge/BLOG-https://roger.twan.life-brightgreen?style=for-the-badge" /></a>
-<a target="_blank" href="https://roger-twan.github.io/lab"><img src="https://img.shields.io/badge/LAB-https://roger--twan.github.io/lab-blueviolet?style=for-the-badge" /></a>
-
+<a target="_blank" href="https://roger.ink"><img src="https://img.shields.io/badge/https://roger.ink-brightgreen?style=for-the-badge" /></a>
 #### 📪 Contact with me
 <a target="_blank" href="mailto:roger.twan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=%20&style=for-the-badge&color=EA4335&labelColor=5c5c5c&logoColor=white" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/roger-twan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedIn&label=%20&style=for-the-badge&color=0A66C2&labelColor=5c5c5c" /></a>
