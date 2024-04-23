@@ -78,13 +78,13 @@ I am a Software Engineer and Tech Geek, and I have always been passionate about 
 <span><img src="https://img.shields.io/badge/_-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/_-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Apple_Store_Connect-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Agile_Scrum-violet?style=for-the-badge" /></span>
 <span><img src="https://img.shields.io/badge/_-DEVOPS-violet?style=for-the-badge" /></span>
+<!-- <span><img src="https://img.shields.io/badge/_-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></span> -->
 
 <!--
 [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-twan&show_icons=true)](https://github.com/roger-twan)
