@@ -61,13 +61,18 @@ I am a Software Engineer and Tech Geek, and I have always been passionate about 
 <span><img src="https://img.shields.io/badge/_-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></span>
 
 #### 🌥 Hostings
-<span><img src="https://img.shields.io/badge/_-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Tecent_Cloud-2571F6?style=for-the-badge&logo=tencentqq&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/_-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/_-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></span>
+<!-- <span><img src="https://img.shields.io/badge/_-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></span> -->
+
+#### 🎨 Desgin
+<span><img src="https://img.shields.io/badge/_-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Adobe_Indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" /></span>
 
 #### 🤖 Extensive knowledge
 <span><img src="https://img.shields.io/badge/_-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /></span>
@@ -78,8 +83,8 @@ I am a Software Engineer and Tech Geek, and I have always been passionate about 
 <span><img src="https://img.shields.io/badge/_-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Apple_Store_Connect-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/_-Scrum-violet?style=for-the-badge" /></span>
-
+<span><img src="https://img.shields.io/badge/_-Agile_Scrum-violet?style=for-the-badge" /></span>
+<span><img src="https://img.shields.io/badge/_-DEVOPS-violet?style=for-the-badge" /></span>
 
 <!--
 [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-twan&show_icons=true)](https://github.com/roger-twan)
