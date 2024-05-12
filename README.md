@@ -69,7 +69,7 @@ I am a Software Engineer and Tech Geek, and I have always been passionate about 
 <!-- <span><img src="https://img.shields.io/badge/_-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></span> -->
 
-#### 🎨 Desgin
+#### 🎨 Design
 <span><img src="https://img.shields.io/badge/_-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" /></span>
