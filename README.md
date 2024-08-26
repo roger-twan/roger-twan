@@ -27,7 +27,7 @@ A Full-Stack Developer.
 <span><img src="https://img.shields.io/badge/_-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /></span>
 
-#### 📚 Tech stacks
+#### 📚 Frameworks & Libraries
 <span><img src="https://img.shields.io/badge/_-Node-339933?style=for-the-badge&logo=node.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></span>
