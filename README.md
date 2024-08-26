@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Roger
-I am a Software Engineer and tech enthusiast with a strong passion for learning and mastering new technologies.
+A Full-Stack Developer.
 
 ---
 
