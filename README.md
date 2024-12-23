@@ -16,12 +16,14 @@ A Full-Stack Developer.
 <span><img src="https://img.shields.io/badge/_-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Java-3A75B0?style=for-the-badge&logo=java&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></span>
 
 #### 💽 Databases
 <span><img src="https://img.shields.io/badge/_-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" /></span>
 
 #### 🎛 CMS
 <span><img src="https://img.shields.io/badge/_-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></span>
@@ -58,7 +60,12 @@ A Full-Stack Developer.
 <span><img src="https://img.shields.io/badge/_-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/_-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" /></span>
 <br />
-<span><img src="https://img.shields.io/badge/_-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></span>
+<br />
+<span><img src="https://img.shields.io/badge/_-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/_-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" /></span>
+
 
 #### 🌥 Hostings
 <span><img src="https://img.shields.io/badge/_-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></span>
