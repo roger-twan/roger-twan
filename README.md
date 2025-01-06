@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Roger!</h3>
-<p align="center">A Full-Stack Developer.<p>
+<p align="center">A Full-Stack Developer. See my <a href="https://roger.ink/skills" target="_blank">skills</a>.<p>
 
 ---
 
