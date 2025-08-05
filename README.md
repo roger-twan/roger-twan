@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Roger!</h3>
-<p>A Full-stack web developer with over 10 years of experience building robust web and mobile applications. Currently completing a diploma in design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. See my <a href="https://roger.ink/skills" target="_blank">skills</a>.<p>
+<p>A Full-stack web developer with over 10 years of experience building robust web and mobile applications. Currently completing a diploma in design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. Want to know more? Visit <a href="https://roger.ink" target="_blank">my website</a>.</p>
 
 ---
 
@@ -13,12 +13,6 @@
   <a target="_blank" href="mailto:roger.twan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=%20&style=for-the-badge&color=EA4335&labelColor=5c5c5c&logoColor=white" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/roger-twan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedIn&label=%20&style=for-the-badge&color=0A66C2&labelColor=5c5c5c" /></a>
 </p>
-
-<h4 align="center">Tech Stack</h4>
-<image src="https://raw.githubusercontent.com/roger-twan/website/main/doc/skills-screenshot-hideYear.jpeg">
-
-<h4 align="center">Technical Growth Path</h4>
-<image src="https://raw.githubusercontent.com/roger-twan/website/main/doc/skills-screenshot.jpeg">
 
 <!--
 [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-twan&show_icons=true)](https://github.com/roger-twan)
