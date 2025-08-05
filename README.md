@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Roger!</h3>
-<p>A Full-stack web developer with extensive experience building robust web and mobile applications. Currently completing a diploma in design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. Want to know more? Visit <a href="https://roger.ink" target="_blank">my website</a>.</p>
+<p>A Full-stack developer with extensive experience building robust web and mobile applications. Currently completing a diploma in design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. Want to know more? Visit <a href="https://roger.ink" target="_blank">my website</a>.</p>
 
 ---
 
