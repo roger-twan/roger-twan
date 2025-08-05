@@ -5,7 +5,7 @@
 
 <h4 align="center">Website</h4>
 <p align="center">
-  <a target="_blank" href="https://roger.ink"><img src="https://img.shields.io/badge/https://roger.ink-brightgreen?style=for-the-badge" /></a>
+  <a target="_blank" href="https://roger.ink"><img src="https://img.shields.io/badge/https://roger.ink-black?style=for-the-badge" /></a>
 </p>
 
 <h4 align="center">Contact</h4>
