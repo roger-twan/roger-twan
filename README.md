@@ -1,11 +1,16 @@
 <h3 align="center">👋 Hi, I'm Roger!</h3>
-<p>A Full-stack developer with extensive experience building robust web and mobile applications. Recently completed a diploma in Interactive Media Design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. Want to know more? Visit <a href="https://roger.ink" target="_blank">my website</a>.</p>
+<p>A Full-stack developer with extensive experience building robust web and mobile applications. Recently completed a diploma in Interactive Media Design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. Want to know more? Visit <a href="https://roger.ink" target="_blank">my website</a> or chat with <a href="https://roger.ink/chat" target="_blank">my AI assistant</a>.</p>
 
 ---
 
+<h4 align="center">Chat with my AI assistant</h4>
+<p align="center">
+  <a target="_blank" href="https://roger.ink/chat"><img src="https://img.shields.io/static/v1?message=AI%20Assistant&logo=livechat&label=%20&style=for-the-badge&color=295BFA&labelColor=7E2EDD&logoColor=white" />
+</p>
+
 <h4 align="center">Website</h4>
 <p align="center">
-  <a target="_blank" href="https://roger.ink"><img src="https://img.shields.io/badge/https://roger.ink-black?style=for-the-badge" /></a>
+  <a target="_blank" href="https://roger.ink"><img src="https://img.shields.io/badge/https://roger.ink-green?style=for-the-badge" /></a>
 </p>
 
 <h4 align="center">Contact</h4>
