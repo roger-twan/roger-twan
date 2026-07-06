@@ -1,27 +1,45 @@
-<h3 align="center">👋 Hi, I'm Roger!</h3>
-<p>A Full-stack developer with extensive experience building robust web and mobile applications. Recently completed a diploma in Interactive Media Design, aiming to master the entire product lifecycle—from early design and prototyping to development, testing, deployment, and ongoing maintenance. I combine solid technical skills with a user-centered design approach. Want to know more? Visit <a href="https://roger.ink" target="_blank">my website</a> or chat with <a href="https://roger.ink/chat" target="_blank">my AI assistant</a>.</p>
+<h3 align="center">Hi, I'm Roger.</h3>
+
+<p>
+  I'm a full-stack product engineer focused on AI-assisted product building.
+  I use AI across research, prototyping, design, engineering, code review,
+  documentation, testing, and iteration, while building systems around RAG,
+  developer workflows, automation, and modern product interfaces.
+</p>
+
+<p>
+  My background combines software engineering, UI/UX, and interactive media design,
+  which helps me move from product ideas to shipped systems with both technical depth
+  and user-centered execution.
+</p>
+
+<p>
+  Want to know more? Visit <a href="https://roger.ink" target="_blank">roger.ink</a>
+  or chat with <a href="https://roger.ink/chat" target="_blank">Roger's AI</a>.
+</p>
 
 ---
 
-<h4 align="center">Chat with my AI assistant</h4>
+<h4 align="center">Chat with Roger's AI</h4>
 <p align="center">
-  <a target="_blank" href="https://roger.ink/chat"><img src="https://img.shields.io/static/v1?message=AI%20Assistant&logo=livechat&label=%20&style=for-the-badge&color=295BFA&labelColor=7E2EDD&logoColor=white" />
+  <a target="_blank" href="https://roger.ink/chat">
+    <img src="https://img.shields.io/static/v1?message=Roger's%20AI&logo=livechat&label=Chat%20with&style=for-the-badge&color=14B8A6&labelColor=111827&logoColor=white" />
+  </a>
 </p>
 
 <h4 align="center">Website</h4>
 <p align="center">
-  <a target="_blank" href="https://roger.ink"><img src="https://img.shields.io/badge/https://roger.ink-green?style=for-the-badge" /></a>
+  <a target="_blank" href="https://roger.ink">
+    <img src="https://img.shields.io/badge/roger.ink-111827?style=for-the-badge" />
+  </a>
 </p>
 
 <h4 align="center">Contact</h4>
 <p align="center">
-  <a target="_blank" href="mailto:roger.twan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=%20&style=for-the-badge&color=EA4335&labelColor=5c5c5c&logoColor=white" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/roger-twan"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedIn&label=%20&style=for-the-badge&color=0A66C2&labelColor=5c5c5c" /></a>
+  <a target="_blank" href="mailto:roger.twan@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=%20&style=for-the-badge&color=EA4335&labelColor=374151&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/roger-twan">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&style=for-the-badge&color=0A66C2&labelColor=374151&logoColor=white" />
+  </a>
 </p>
-
-<!--
-[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=roger-twan&show_icons=true)](https://github.com/roger-twan)
-[![Roger's GitHub Streak](https://streak-stats.demolab.com?user=roger-twan&theme=tokyonight_duo&border=E4E2E2&stroke=E4E2E2&ring=4382E5&fire=4382E5&currStreakNum=4382E5&sideNums=4382E5&currStreakLabel=454D57&sideLabels=454D57&dates=999999)](https://github.com/toger-twan)
-[![Roger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roger-twan&layout=compact)](https://github.com/roger-twan)
-[![Roger's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=roger-twan&theme=minimal)](https://github.com/roger-twan)
--->
